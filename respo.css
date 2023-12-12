@@ -1,0 +1,14 @@
+/* Existing CSS code */
+
+/* Media Query for .menu icon responsiveness */
+@media screen and (max-width: 600px) {
+    .menu i {
+        font-size: 18px; /* Adjust the font size as needed */
+    }
+
+    .menu{
+        font-size: 10px;
+        padding: 3px;
+        margin: 3px;
+    }
+}
